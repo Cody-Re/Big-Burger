@@ -1,8 +1,8 @@
 Top Bun
+Cheese
 
-Meat
 
 
-Onion
 
+Cheese
 Bottom Bun
