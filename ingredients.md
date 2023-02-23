@@ -1,8 +1,8 @@
 Top Bun
 
-Meat
 
+Pickle
+Mustard
 
-Onion
 
 Bottom Bun
